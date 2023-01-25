@@ -4,9 +4,9 @@
         ⤷ Frontend web developer adept at contributing to highly collaborative work environment and finding solutions. With experience in       developing focused websites using HTML, CSS, JavaScript and Frameworks like Reactjs, A. Good knowledge of the best practices for web    design, user experience, and speed.
 </p>
 
-| [Portfolio](https://ashokthapachhetri.vercel.app/)
-| [Twitter](https://twitter.com/Yosoyashok)
-| [Linkedin](https://www.linkedin.com/in/ashok-thapa-chhetri-59a941238/)
+>| [Portfolio](https://ashokthapachhetri.vercel.app/)
+>| [Twitter](https://twitter.com/Yosoyashok)
+>| [Linkedin](https://www.linkedin.com/in/ashok-thapa-chhetri-59a941238/)
 
 # <h1 style="font-family: 'Lobster';font-weight:900;font-size:clamp(2rem,6vw,3rem);">Skills</h1>
 

@@ -28,7 +28,7 @@
 </a></td>
 
 <td> <a  href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener">
-    <img style="object-fit:contain" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongodb" width="30" height="30" />
+    <img style="object-fit:contain" src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" alt="Mongodb" width="30" height="30" />
 </a></td>
    </tr>
    <tr>

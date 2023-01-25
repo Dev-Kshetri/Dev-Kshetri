@@ -1,7 +1,7 @@
 # <h1>Hi 👋🏼<br/>Im, Ashok Thapa Chhetri</h1>
 
 
->⤷ Frontend web developer adept at contributing to highly collaborative work environment and finding solutions. With experience in developing focused             >  websites using HTML, CSS, JavaScript and Frameworks like Reactjs, A. Good knowledge of the best practices for web    design, user experience, and speed.
+⤷ Frontend web developer adept at contributing to highly collaborative work environment and finding solutions. With experience in developing focused             >  websites using HTML, CSS, JavaScript and Frameworks like Reactjs, A. Good knowledge of the best practices for web    design, user experience, and speed.
 
 
 | [Portfolio](https://ashokthapachhetri.vercel.app/)
